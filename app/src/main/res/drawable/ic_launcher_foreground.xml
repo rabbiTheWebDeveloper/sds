@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered phone body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,24 h32 c4.4,0 8,3.6 8,8 v44 c0,4.4 -3.6,8 -8,8 h-32 c-4.4,0 -8,-3.6 -8,-8 v-44 c0,-4.4 3.6,-8 8,-8 z" />
+    <!-- Screen area inside phone -->
+    <path
+        android:fillColor="#FFF0F5"
+        android:pathData="M34,31 h40 v38 h-40 z" />
+    <!-- SMS message bubble -->
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M39,36 h30 c2.2,0 4,1.8 4,4 v13 c0,2.2 -1.8,4 -4,4 h-18 l-5,4 v-4 h-7 c-2.2,0 -4,-1.8 -4,-4 v-13 c0,-2.2 1.8,-4 4,-4 z" />
+    <!-- Sync / Exchange arrows inside or checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,46 l4,4 l10,-10 l1.8,1.8 l-11.8,11.8 l-5.8,-5.8 z" />
+    <!-- Phone bottom notch / indicator -->
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M50,75 h8 c1.1,0 2,0.9 2,2 c0,1.1 -0.9,2 -2,2 h-8 c-1.1,0 -2,-0.9 -2,-2 c0,-1.1 0.9,-2 2,-2 z" />
+</vector>

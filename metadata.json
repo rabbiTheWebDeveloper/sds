@@ -1,0 +1,6 @@
+{
+  "name": "bKash SMS Sync",
+  "description": "Access SMS inbox, parse bKash transaction messages, store in local Room database, and sync to remote API endpoint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
